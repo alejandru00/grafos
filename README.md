@@ -47,7 +47,7 @@ La primera línea de entrada tiene dos números enteros.nortenortenorteymetromet
 altura y el ancho del mapa.
 
 Entonces hay 𝑛 líneas de 𝑚 caracteres que describen el laberinto. Cada carácter es
-.(suelo), #(pared), A(inicio) o B(final). Hay exactamente un A y un B en la entrada
+.(suelo), #(pared), A(inicio) o B(final). Hay exactamente un A y un B en la entrada.
 
 
 ### Salida:
