@@ -24,21 +24,15 @@ Imprime un número entero: el número de habitaciones.
 
 ### Ejemplo:
 Entrada:
-
 5 8
 
 ########
-
 #..#...#
-
 ####.#.#
-
 #..#...#
-
 ########
 
 Salida:
-
 3
 
 
@@ -71,23 +65,15 @@ cualquier solución válida.
 ### Ejemplo:
 
 Entrada:
-
 5 8
 
 ########
-
 #.A#...#
-
 #.##.#B#
-
 #......#
-
 ########
 
 Salida:
-
 SÍ
-
 9
-
 LDDRRRRRU
