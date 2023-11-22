@@ -24,7 +24,6 @@ Imprime un número entero: el número de habitaciones.
 
 ### Ejemplo:
 Entrada:
-
 5 8
 ########
 #..#...#
